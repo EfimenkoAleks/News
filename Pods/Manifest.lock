@@ -1,0 +1,64 @@
+PODS:
+  - Differentiator (4.0.1)
+  - QuickLayout (3.0.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SDWebImage (5.8.0):
+    - SDWebImage/Core (= 5.8.0)
+  - SDWebImage/Core (5.8.0)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+  - SwiftEntryKit (1.2.3):
+    - QuickLayout (= 3.0.0)
+  - SwiftyJSON (4.3.0)
+  - TextFieldEffects (1.6.0)
+
+DEPENDENCIES:
+  - RxCocoa (~> 5)
+  - RxDataSources (~> 4.0)
+  - RxSwift (~> 5)
+  - SDWebImage (~> 5.0)
+  - SQLite.swift (~> 0.12.0)
+  - SwiftEntryKit (= 1.2.3)
+  - SwiftyJSON (~> 4.0)
+  - TextFieldEffects
+
+SPEC REPOS:
+  trunk:
+    - Differentiator
+    - QuickLayout
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - SQLite.swift
+    - SwiftEntryKit
+    - SwiftyJSON
+    - TextFieldEffects
+
+SPEC CHECKSUMS:
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  QuickLayout: 07b45a72b10083fee3f095990cfed1c1e7b27f0a
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SDWebImage: 84000f962cbfa70c07f19d2234cbfcf5d779b5dc
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+  SwiftEntryKit: 340713c2e4a6662c5149629990bf1088bf5f0389
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+
+PODFILE CHECKSUM: f5da54fd4f102af0f178207f0a84459daed2f6cf
+
+COCOAPODS: 1.8.4
