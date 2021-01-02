@@ -4,10 +4,6 @@
 
 
 
-![Image alt](https://github.com/EfimenkoAleksandr/News/blob/master/https://github.com/EfimenkoAleksandr/News/blob/master/News%20selection%20page.png)
-
-
-
 ![Image alt](https://github.com/EfimenkoAleksandr/News/blob/master/News.png)
 
 
