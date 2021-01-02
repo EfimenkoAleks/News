@@ -8,3 +8,6 @@
 
 ![Image alt](https://github.com/EfimenkoAleksandr/News/blob/masterhttps://github.com/EfimenkoAleksandr/News/blob/master/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8.png)
 
+
+![Image alt](https://github.com/EfimenkoAleksandr/News/blob/master/https://github.com/EfimenkoAleksandr/News/blob/master/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8C.png)
+
