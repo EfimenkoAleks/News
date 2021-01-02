@@ -10,5 +10,4 @@
 
 
 
-![Image alt](https://github.com/EfimenkoAleksandr/News/blob/master/https://github.com/EfimenkoAleksandr/News/blob/master/https://github.com/EfimenkoAleksandr/News/blob/master/Selected%20article.png)
-
+![Image alt](https://github.com/EfimenkoAleksandr/News/blob/master/https://github.com/EfimenkoAleksandr/News/blob/master/https://github.com/EfimenkoAleksandr/News/blob/master/SelectedArticle.png)
