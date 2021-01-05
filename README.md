@@ -13,6 +13,6 @@
 ![Image alt](https://github.com/EfimenkoAleksandr/News/blob/master/News.png)
 
 
-Страничка выбранной новости , можно передать или сохранить .
+Страничка выбранной новости , можно передать или сохранить в список избранных .
 
 ![Image alt](https://github.com/EfimenkoAleksandr/News/blob/master/SelectedArticle.png)
